@@ -1,12 +1,40 @@
-- 👋 Hi, I’m Muhammadyor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, I'm Muhammadyor!
 
-<!---
-musinov501/musinov501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Backend Developer | Python & AI Enthusiast
+
+```diff
++ Passionate about building robust systems and intelligent solutions
+🌟 About Me
+🛠️ Working with: Python, FastAPI, Django, PostgreSQL, Docker
+
+🤖 Currently building: AI-powered Telegram bots with OpenAI
+
+🌱 Learning: LLM integration, scalable backend architectures
+
+💡 Interested in: API design, automation, and machine learning
+
+⚡ Fun fact: I can solve a Rubik's cube while debugging code!
+
+🚀 Skills & Tools
+python
+# My tech stack
+languages = ["Python", "SQL", "C", "Javascript"]
+frameworks = ["Django", "Aiogram", "Bootstrap", "Flask"]
+databases = ["PostgreSQL", "Redis", "MySQL"]
+devops = ["Docker", "Git", "Linux", "Ubuntu"]
+📂 Featured Projects
+🤖 Telegram AI Assistant
+
+OpenAI-powered chatbot with image analysis
+
+Tech: Python, Aiogram, GPT-4
+
+
+Ready-to-deploy FastAPI template with JWT auth
+
+🤝 Let's Connect
+📧 Email: musinovmuhammaader@example.com
+
+diff
+! Open to collaborations on innovative backend/AI projects!
+</details> ```
