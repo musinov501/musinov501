@@ -33,7 +33,7 @@ Tech: Python, Aiogram, GPT-4
 Ready-to-deploy FastAPI template with JWT auth
 
 🤝 Let's Connect
-📧 Email: musinovmuhammaader@example.com
+📧 Email: musinovmuhammaader@gmail.com
 
 diff
 ! Open to collaborations on innovative backend/AI projects!
