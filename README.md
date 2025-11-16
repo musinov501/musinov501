@@ -1,40 +1,15 @@
-# 👋 Hello, I'm Muhammadyor!
-
-### 💻 Backend Developer | Python & AI Enthusiast
-
-```diff
-+ Passionate about building robust systems and intelligent solutions
-🌟 About Me
-🛠️ Working with: Python, FastAPI, Django, PostgreSQL, Docker
-
-🤖 Currently building: AI-powered Telegram bots with OpenAI
-
-🌱 Learning: LLM integration, scalable backend architectures
-
-💡 Interested in: API design, automation, and machine learning
-
-⚡ Fun fact: I can solve a Rubik's cube while debugging code!
-
-🚀 Skills & Tools
-python
-# My tech stack
-languages = ["Python", "SQL", "C", "Javascript"]
-frameworks = ["Django", "Aiogram", "Bootstrap", "Flask"]
-databases = ["PostgreSQL", "Redis", "MySQL"]
-devops = ["Docker", "Git", "Linux", "Ubuntu"]
-📂 Featured Projects
-🤖 Telegram AI Assistant
-
-OpenAI-powered chatbot with image analysis
-
-Tech: Python, Aiogram, GPT-4
+# 💫 About Me:
++ Passionate about building robust systems and intelligent solutions<br>🌟 About Me<br>🛠️ Working with: Python, FastAPI, Django, PostgreSQL, Docker<br><br>🤖 Currently building: AI-powered Telegram bots with OpenAI<br><br>🌱 Learning: LLM integration, scalable backend architectures<br><br>💡 Interested in: API design, automation, and machine learning<br><br>⚡ Fun fact: I can solve a Rubik's cube while debugging code!<br><br>🚀 Skills & Tools<br>python<br># My tech stack<br>languages = ["Python", "SQL", "C", "Javascript"]<br>frameworks = ["Django", "Aiogram", "Bootstrap", "Flask"]<br>databases = ["PostgreSQL", "Redis", "MySQL"]<br>devops = ["Docker", "Git", "Linux", "Ubuntu"]<br>📂 Featured Projects<br>🤖 Telegram AI Assistant<br><br>OpenAI-powered chatbot with image analysis<br><br>Tech: Python, Aiogram, GPT-4<br><br><br>Ready-to-deploy FastAPI template with JWT auth<br><br>🤝 Let's Connect<br>📧 Email: musinovmuhammaader@gmail.com<br><br>diff<br>! Open to collaborations on innovative backend/AI projects!<br></details> ```
 
 
-Ready-to-deploy FastAPI template with JWT auth
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=musinov501&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=musinov501&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musinov501&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🤝 Let's Connect
-📧 Email: musinovmuhammaader@gmail.com
+---
+[![](https://visitcount.itsvg.in/api?id=musinov501&icon=0&color=0)](https://visitcount.itsvg.in)
 
-diff
-! Open to collaborations on innovative backend/AI projects!
-</details> ```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
